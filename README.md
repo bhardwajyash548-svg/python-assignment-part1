@@ -67,7 +67,9 @@ The goal of this task is to:
 ## 🖥️ Sample Output
 
 Student : Ayesha Sharma
+
 Roll No : 101
+
 Marks : [88, 72, 95, 60, 78]
 
 ---
